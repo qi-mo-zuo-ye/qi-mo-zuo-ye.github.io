@@ -1,8 +1,4 @@
-/*
-Author: W3layouts
-Author URL: http://w3layouts.com
- */
- html {
+html {
     scroll-behavior: smooth;
 }
 
@@ -161,9 +157,6 @@ button:hover {
     margin-left: auto;
 }
 
-/*-- //wrapper start --*/
-
-/*-- form styling --*/
 .w3l-hotair-form {
     position: relative;
     min-height: 100vh;
@@ -395,12 +388,6 @@ p.copy-footer-29 a:hover {
     -moz-transition: 0.5s ease;
 }
 
-
-/* -- placeholder --*/
-
-
-/*-- responsive design --*/
-
 @media (max-width:736px) {
     .w3l-hotair-form .main-hotair {
         flex-direction: column;
@@ -464,6 +451,3 @@ p.copy-footer-29 a:hover {
     }
 
 }
-
-/*-- //responsive design --*/
-/*-- //form styling --*/
